@@ -3,19 +3,19 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "https://www.google.com/imgres?imgurl\u003dhttp%3A%2F%2Fgourmettrading.net%2Fwp-content%2Fuploads%2F2015%2F03%2FBig-Green-Asparagus.png\u0026imgrefurl\u003dhttp%3A%2F%2Fgourmettrading.net%2Four-produce%2Fgreen-asparagus%2F\u0026docid\u003dyrjCBGTTXHkxFM\u0026tbnid\u003d_D-FwB6EhVjjIM%3A\u0026vet\u003d1\u0026w\u003d500\u0026h\u003d264\u0026bih\u003d492\u0026biw\u003d1024\u0026ved\u003d0ahUKEwj01-uUyp7QAhXI5YMKHT_BBxYQMwhIKAAwAA\u0026iact\u003dmrc\u0026uact\u003d8",
+    "file": "",
     "link": "",
-    "text": "me"
+    "text": "Lilly Winfree"
   },
   "text": {
-    "more": "p m w codine ",
-    "intro": "test",
-    "title": "les mis"
+    "more": "",
+    "intro": "",
+    "title": "Business Plot Overview"
   },
   "legend": {
-    "edgeLabel": "connections",
-    "colorLabel": "communities",
-    "nodeLabel": "people"
+    "edgeLabel": "Edges",
+    "colorLabel": "None",
+    "nodeLabel": "Nodes "
   },
   "features": {
     "search": true,
